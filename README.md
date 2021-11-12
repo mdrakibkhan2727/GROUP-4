@@ -6,6 +6,3 @@ XAMPP helps a local host or server to test its website and clients via computers
 
 > Create Database `quiz_db` and then import the SQL file `quiz_db.sql` on the MySql database.
 
-'''
-Hello
-'''
